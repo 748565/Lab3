@@ -9,4 +9,5 @@ int main(){
 	else if(num2>num1)
 		cout<<num2<<" is greater than "<<num1; 
 	else
-cout<<"The entered numbers are equal";
+                cout<<"The entered numbers are equal";
+}
